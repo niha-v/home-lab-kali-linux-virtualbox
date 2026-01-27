@@ -6,7 +6,7 @@ This project documents the setup of a Kali Linux home lab using Oracle VirtualBo
 
 This lab is designed as a starting point for SOC, Blue Team, and general cybersecurity learning. </br>
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 Set up a stable Kali Linux virtual machine
 Understand VM resource allocation and performance
