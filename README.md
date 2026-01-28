@@ -6,7 +6,7 @@ This project documents the setup of a Kali Linux home lab using Oracle VirtualBo
 
 This lab is designed as a starting point for SOC, Blue Team, and general cybersecurity learning. </br>
 
- <img src="https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/Image%201.png" width="500">
+ <img src="https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/Kali_Desktop_view.png" width="500">
 
 ## 🎯 Objectives 
 
@@ -51,7 +51,7 @@ For this lab, I chose a NAT (Network Address Translation) configuration. This se
 
 After logging into Kali Linux, run the following commands:
 - sudo apt update && sudo apt upgrade -y
-<img src= "https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/image%202.png" width="500">
+<img src= "https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/apt_update.png" width="500">
 Verify the installed Kali version:
 - cat /etc/os-release
 </br> </br>
@@ -59,14 +59,14 @@ Verify the installed Kali version:
 ### 4️⃣ Install Resource Monitoring Tool (htop)
 - sudo apt install htop -y
 
-<img src= "https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/image%203.png" width="500">
+<img src= "https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/Install_htop.png" width="500">
 
 Why htop? </br>
 Monitors CPU, RAM, and running processes in real time. Useful for understanding VM resource consumption
 
 - Run htop using: htop command </br>
 
-<img src= "https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/Image%204.png" width="500">
+<img src= "https://github.com/niha-v/home-lab-kali-linux-virtualbox/blob/main/Htop_Resource_Monitoring.png" width="500">
 </br> </br>
 
 ### 5️⃣ Install VirtualBox Guest Additions
