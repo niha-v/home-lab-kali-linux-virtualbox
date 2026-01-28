@@ -97,13 +97,10 @@ Linux command-line proficiency is essential for cybersecurity roles
 
 ## 📬 Author
 
-Niharika Umrani </br>
+Niharika Umrani | *Cybersecurity Analyst* 
 
-Cybersecurity Analyst 
-
-
-
-####  🔐 This home lab is built strictly for educational and ethical cybersecurity practice.
+---
+####  🔐 *This home lab is built strictly for educational and ethical cybersecurity practice.*
 
 
 
